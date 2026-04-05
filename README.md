@@ -11,3 +11,5 @@
 ```bash 
 python src/etl_basic.py 
 ``` 
+## Week 1 Status
+- [x] Git feature branch workflow completed
